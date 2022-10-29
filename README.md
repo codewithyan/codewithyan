@@ -4,12 +4,20 @@
 
 - 🔭 Hoje trabalho com o mercado de criptoativos.
 - 🌱 Estou estudando para me tornar um front-end. Atualmente HTML, CSS e JavaScript.
-- 📫 Contate-me por yancarvalhoalmeida@gmail.com
+- 📫 Meus contatos estão logo abaixo:
+
+<div> 
+   <a href="https://instagram.com/yancarvalhorj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	 <a href = "mailto:yancarvalhoalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yan-almeida-50010b206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/codewithyan">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=CodewithYan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyan&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyan&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,10 +29,7 @@
 ##
 
 <div> 
-   <a href="https://instagram.com/yancarvalhorj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href = "mailto:yancarvalhoalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yan-almeida-50010b206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
