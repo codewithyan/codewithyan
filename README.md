@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/codewithyan">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=CodewithYan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyan&layout=compact&langs_count=7&theme=dark"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyan&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
