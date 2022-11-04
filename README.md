@@ -29,5 +29,5 @@
 ##
 
 <div>    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- </div>
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/d0a5493b1fa11d95cb0e59fe6287fe68fedfb5fc/github-contribution-grid-snake.svg">
+</div>
