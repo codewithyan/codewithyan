@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com o mercado de criptoativos.
-- 🌱 Estou estudando para me tornar um front-end. Atualmente HTML, CSS e JavaScript.
+- 🌱 Estou estudando para me tornar um front-end. Iniciante em programaçao, atualmente estudo HTML, CSS e JavaScript.
 - 📫 Meus contatos estão logo abaixo:
 
 <div> 
